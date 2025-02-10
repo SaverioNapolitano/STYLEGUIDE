@@ -1,0 +1,12 @@
+[submodule "STYLEGUIDE-micro"]
+	path = STYLEGUIDE-micro
+	url = https://github.com/SaverioNapolitano/STYLEGUIDE-micro.git
+[submodule "STYLEGUIDE-bridge"]
+	path = STYLEGUIDE-bridge
+	url = https://github.com/SaverioNapolitano/STYLEGUIDE-bridge.git
+[submodule "STYLEGUIDE-server"]
+	path = STYLEGUIDE-server
+	url = https://github.com/SaverioNapolitano/STYLEGUIDE-server.git
+[submodule "STYLEGUIDE-app"]
+	path = STYLEGUIDE-app
+	url = https://github.com/SaverioNapolitano/STYLEGUIDE-app.git
