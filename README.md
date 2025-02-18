@@ -30,7 +30,7 @@ In turn, our solution offers an all-in-one system, with a mainly automatic (dyna
 
 **Green Up Ideal Daily Environment**: STYLEGUIDE is great not only for you (and your wallet), but also for the planet, having as target audience homeowners, businesses, smart cities and many more, leading to a win-win scenario.
 
-## User-centric experience 
+## User-centered desigm 
 
 Of course, in order for the light to become your buddy it needs to know you better and this requires time. Moreover, sometimes it's difficult to satisfy some needs if not explicitly told how to. 
 
@@ -41,3 +41,5 @@ And that's why, even though STYLEGUIDE does its best to avoid the user having to
 The system design is the following: ![](images/architecture.png)
 
 Every component detail is explained in its own repo. 
+
+> [!NOTE] For the real prototype, just one microcontroller connected to both sensors and actuator has been used.
