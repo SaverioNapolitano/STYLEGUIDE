@@ -43,4 +43,4 @@ The system design is the following: ![](images/architecture.png)
 Every component detail is explained in its own repo. 
 
 > [!NOTE] 
-> For the real prototype, just one microcontroller connected to both sensors and actuator has been used. Moreover, the bluetooth connection with the bridge has been replaced by a serial one,
+> For the real prototype, just one microcontroller connected to both sensors and actuator has been used. Moreover, the bluetooth connection with the bridge has been replaced by a serial one
